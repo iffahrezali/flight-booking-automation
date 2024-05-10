@@ -18,14 +18,14 @@ Test steps for purchasing a flight ticket
 The process of purchasing a flight ticket using Selenium WebDriver
 1. Launch the browser and navigate to the website PHP Travels
 2. Navigate to the booking website 
-Inspect the elements that require filling in inputs (login if necessary, places of departure and arrival, dates, number of passengers)
-3. Fill in the inputs required for flight information
-4. Submit the information
-5. Check for flight options (flight times, ticket prices)
-6. Pick the desired time and price 
-7. Check seat availability and pick one 
-8. Proceed to additional purchases (in-flight meals, check-in baggage)
-9. Proceed for payment
-10. Fill in the inputs required for payment
-11. Submit and wait for confirmation 
-12. Close the browser window
+3. Inspect the elements that require filling in inputs (login if necessary, places of departure and arrival, dates, number of passengers)
+4. Fill in the inputs required for flight information
+5. Submit the information
+6. Check for flight options (flight times, ticket prices)
+8. Pick the desired time and price 
+9. Check seat availability and pick one 
+10. Proceed to additional purchases (in-flight meals, check-in baggage)
+11. Proceed for payment
+12. Fill in the inputs required for payment
+13. Submit and wait for confirmation 
+14. Close the browser window
